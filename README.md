@@ -39,7 +39,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yagoalt54&locale=pt-br&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/yagoalt54/yagoalt54/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=yagoalt54&locale=pt-br&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/yagoalt54/yagoalt54/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 
