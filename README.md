@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/yago-alves-60515026b/" target="_blank">
     <img src="https://raw.githubusercontent.com/yagoalt54/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
