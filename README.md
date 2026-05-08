@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yagoalt54&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=yagoalt54&locale=pt-br&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
