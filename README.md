@@ -44,13 +44,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yago-alves-60515026b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/yagoalt54/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://discord.com/users/1159075929180602449" target="_blank">
-    <img src="https://raw.githubusercontent.com/yagoalt54/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
   </a>
   <a href="https://www.instagram.com/yagoat.fps/" target="_blank">
-    <img src="https://raw.githubusercontent.com/yagoalt54/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 </div>
-
