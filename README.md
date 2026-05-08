@@ -1,9 +1,12 @@
 <h3 align="left">Olá, bem vindo(a), meu nome é Yago. 🗃️</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagoalt54/yagoalt54/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagoalt54/yagoalt54/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yagoalt54/yagoalt54/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-</div>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="47" alt="python logo"  />
@@ -49,7 +52,3 @@
   </a>
 </div>
 
-
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
-</div>
